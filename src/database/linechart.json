@@ -1,0 +1,1316 @@
+[
+  {
+    "code": 12494,
+    "id": "IPSEMG - INF-003250/00",
+    "number": "INF-003250/00",
+    "value": 4237,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Contrato com faturamento superior ao valor contratado"
+  },
+  {
+    "code": 12579,
+    "id": "IPSEMG - INF-003237/00",
+    "number": "INF-003237/00",
+    "value": 72337,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Contrato com faturamento superior ao valor contratado"
+  },
+  {
+    "code": 12587,
+    "id": "IPSEMG - TAC-263483/00",
+    "number": "TAC-263483/00",
+    "value": 11170,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12592,
+    "id": "IPSEMG - IND-608989/17",
+    "number": "IND-608989/17",
+    "value": 335271,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12992,
+    "id": "IPSEMG - IND-613236/18",
+    "number": "IND-613236/18",
+    "value": 22215,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12993,
+    "id": "IPSEMG - IND-613237/18",
+    "number": "IND-613237/18",
+    "value": 156576,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Contrato com faturamento superior ao valor contratado"
+  },
+  {
+    "code": 12994,
+    "id": "IPSEMG - INF-003211/00",
+    "number": "INF-003211/00",
+    "value": 3870792,
+    "status": "Renovar",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 13046,
+    "id": "IPSEMG - IND-614086/18",
+    "number": "IND-614086/18",
+    "value": 755,
+    "status": "Renovar",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 13051,
+    "id": "IPSEMG - INF-003482/00",
+    "number": "INF-003482/00",
+    "value": 833099,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13106,
+    "id": "IPSEMG - INF-003394/00",
+    "number": "INF-003394/00",
+    "value": 504480,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Contrato com faturamento superior ao valor contratado"
+  },
+  {
+    "code": 13274,
+    "id": "IPSEMG - INF-002928/02",
+    "number": "INF-002928/02",
+    "value": 3802113,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13275,
+    "id": "IPSEMG - INF-003040/01",
+    "number": "INF-003040/01",
+    "value": 1585279,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 13423,
+    "id": "IPSEMG - INF-003250/01",
+    "number": "INF-003250/01",
+    "value": 2146,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 13470,
+    "id": "IPSEMG - IND-619416/18",
+    "number": "IND-619416/18",
+    "value": 118944,
+    "status": "Renovar",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 8675,
+    "id": "SEE - PRP-473449/20",
+    "number": "PRP-473449/20",
+    "value": 54872,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 11200,
+    "id": "SEE - INF-002929/00",
+    "number": "INF-002929/00",
+    "value": 2522927,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 11491,
+    "id": "SEE - INF-002640/00",
+    "number": "INF-002640/00",
+    "value": 2880,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12373,
+    "id": "SEE - INF-003140/00",
+    "number": "INF-003140/00",
+    "value": 13512581,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12846,
+    "id": "SEE - TAC-463483/00",
+    "number": "TAC-463483/00",
+    "value": 1715935,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12497,
+    "id": "SEF - INF-002391/01",
+    "number": "INF-002391/01",
+    "value": 65311015,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 12525,
+    "id": "SEF - TAC-443483/00",
+    "number": "TAC-443483/00",
+    "value": 185016,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 12756,
+    "id": "SEF - INF-002864/02",
+    "number": "INF-002864/02",
+    "value": 6814726,
+    "status": "Renovar",
+    "somparacaoSaldo": "Contrato com execução esperada",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12771,
+    "id": "SEF - INF-003181/01",
+    "number": "INF-003181/01",
+    "value": 995646,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12786,
+    "id": "SEF - INF-003031/01",
+    "number": "INF-003031/01",
+    "value": 2438197,
+    "status": "Renovar",
+    "somparacaoSaldo": "Contrato com execução esperada",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12787,
+    "id": "SEF - INF-003026/01",
+    "number": "INF-003026/01",
+    "value": 85878,
+    "status": "Renovar",
+    "somparacaoSaldo": "Contrato com execução esperada",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12866,
+    "id": "SEF - INF-003456/00",
+    "number": "INF-003456/00",
+    "value": 35800,
+    "status": "Renovar",
+    "somparacaoSaldo": "Contrato com execução esperada",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 13014,
+    "id": "SEF - INF-003512/00",
+    "number": "INF-003512/00",
+    "value": 1024509,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 13022,
+    "id": "SEF - INF-003028/02",
+    "number": "INF-003028/02",
+    "value": 1149391,
+    "status": "Renovar",
+    "somparacaoSaldo": "Contrato com execução esperada",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13230,
+    "id": "SEF - INF-003413/01",
+    "number": "INF-003413/01",
+    "value": 2733,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato com média de execução acima do previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13465,
+    "id": "SEF - INF-003277/03",
+    "number": "INF-003277/03",
+    "value": 983857,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato com média de execução acima do previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13526,
+    "id": "SEF - TAC-443723/00",
+    "number": "TAC-443723/00",
+    "value": 92424,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 8945,
+    "id": "SES - INF-001989/01",
+    "number": "INF-001989/01",
+    "value": 3595834,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 10210,
+    "id": "SES - INF-001932/01",
+    "number": "INF-001932/01",
+    "value": 801489,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 11740,
+    "id": "SES - IND-599465/16",
+    "number": "IND-599465/16",
+    "value": 118602,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 11745,
+    "id": "SES - IND-599456/16",
+    "number": "IND-599456/16",
+    "value": 415834,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12310,
+    "id": "SES - INF-002053/04",
+    "number": "INF-002053/04",
+    "value": 2372818,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12346,
+    "id": "SES - INF-002174/05",
+    "number": "INF-002174/05",
+    "value": 5755320,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12874,
+    "id": "SES - INF-002460/00",
+    "number": "INF-002460/00",
+    "value": 492295,
+    "status": "Renovar",
+    "somparacaoSaldo": "Contrato com execução esperada",
+    "statusFaturamento": "Contrato com faturamento superior ao valor contratado"
+  },
+  {
+    "code": 12879,
+    "id": "SES - INF-002851/00",
+    "number": "INF-002851/00",
+    "value": 212312,
+    "status": "Renovar",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13087,
+    "id": "SES - INF-002074/03",
+    "number": "INF-002074/03",
+    "value": 2561,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato com média de execução acima do previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13120,
+    "id": "SES - INF-002392/03",
+    "number": "INF-002392/03",
+    "value": 1529243,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato com média de execução acima do previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13161,
+    "id": "SES - INF-003340/00",
+    "number": "INF-003340/00",
+    "value": 46514,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 13184,
+    "id": "SES - INF-001935/05",
+    "number": "INF-001935/05",
+    "value": 89996,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13260,
+    "id": "SES - INF-002499/03",
+    "number": "INF-002499/03",
+    "value": 69042,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 13354,
+    "id": "SES - INF-002643/01",
+    "number": "INF-002643/01",
+    "value": 165320,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13446,
+    "id": "SES - INF-003229/00",
+    "number": "INF-003229/00",
+    "value": 1092469,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 11213,
+    "id": "SEGOV - IND-594439/16",
+    "number": "IND-594439/16",
+    "value": 12873,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 11453,
+    "id": "SEGOV - CCV-000023/16",
+    "number": "CCV-000023/16",
+    "value": 543942,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 11649,
+    "id": "SEGOV - INF-002735/01",
+    "number": "INF-002735/01",
+    "value": 1473,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 12242,
+    "id": "SEGOV - INF-003022/01",
+    "number": "INF-003022/01",
+    "value": 3460,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12296,
+    "id": "SEGOV - CCV-000025/17",
+    "number": "CCV-000025/17",
+    "value": 204535,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 12567,
+    "id": "SEGOV - INF-002840/02",
+    "number": "INF-002840/02",
+    "value": 6808,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12604,
+    "id": "SEGOV - TAC-473483/00",
+    "number": "TAC-473483/00",
+    "value": 11083,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12754,
+    "id": "SEGOV - INF-002880/02",
+    "number": "INF-002880/02",
+    "value": 9575,
+    "status": "Renovar",
+    "somparacaoSaldo": "Contrato com execução esperada",
+    "statusFaturamento": "Contrato com faturamento superior ao valor contratado"
+  },
+  {
+    "code": 12819,
+    "id": "SEGOV - INF-902551/04",
+    "number": "INF-902551/04",
+    "value": 16812,
+    "status": "Renovar",
+    "somparacaoSaldo": "Contrato com execução esperada",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13049,
+    "id": "SEGOV - INF-003595/00",
+    "number": "INF-003595/00",
+    "value": 38796,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13068,
+    "id": "SEGOV - INF-003594/00",
+    "number": "INF-003594/00",
+    "value": 4573,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13089,
+    "id": "SEGOV - INF-003574/00",
+    "number": "INF-003574/00",
+    "value": 6804,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato com média de execução acima do previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13128,
+    "id": "SEGOV - INF-003609/00",
+    "number": "INF-003609/00",
+    "value": 3525,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato com média de execução acima do previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13186,
+    "id": "SEGOV - INF-003586/00",
+    "number": "INF-003586/00",
+    "value": 40543,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 13212,
+    "id": "SEGOV - INF-003622/00",
+    "number": "INF-003622/00",
+    "value": 713,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato sem saldo",
+    "statusFaturamento": "Contrato com faturamento superior ao valor contratado"
+  },
+  {
+    "code": 13236,
+    "id": "SEGOV - INF-003642/00",
+    "number": "INF-003642/00",
+    "value": 280,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato sem saldo",
+    "statusFaturamento": "Contrato com faturamento superior ao valor contratado"
+  },
+  {
+    "code": 13238,
+    "id": "SEGOV - INF-003570/01",
+    "number": "INF-003570/01",
+    "value": 2410788,
+    "status": "Renovar",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 13524,
+    "id": "SEGOV - INF-003722/00",
+    "number": "INF-003722/00",
+    "value": 6804,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 12573,
+    "id": "PMMG - INF-609113/17",
+    "number": "INF-609113/17",
+    "value": 60,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12614,
+    "id": "PMMG - TAC-353483/00",
+    "number": "TAC-353483/00",
+    "value": 54286,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 12636,
+    "id": "PMMG - INF-003079/01",
+    "number": "INF-003079/01",
+    "value": 120067,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 12653,
+    "id": "PMMG - INF-003132/01",
+    "number": "INF-003132/01",
+    "value": 19680,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12670,
+    "id": "PMMG - INF-003133/01",
+    "number": "INF-003133/01",
+    "value": 205937,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12731,
+    "id": "PMMG - INF-003441/00",
+    "number": "INF-003441/00",
+    "value": 28836,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 12745,
+    "id": "PMMG - INF-002861/03",
+    "number": "INF-002861/03",
+    "value": 1772433,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12777,
+    "id": "PMMG - INF-003056/02",
+    "number": "INF-003056/02",
+    "value": 240404,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13044,
+    "id": "PMMG - INF-002650/02",
+    "number": "INF-002650/02",
+    "value": 162449,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato com média de execução acima do previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13493,
+    "id": "PMMG - INF-003079/02",
+    "number": "INF-003079/02",
+    "value": 96060,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13515,
+    "id": "PMMG - INF-002861/04",
+    "number": "INF-002861/04",
+    "value": 1774702,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 13516,
+    "id": "PMMG - INF-003056/03",
+    "number": "INF-003056/03",
+    "value": 240696,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 2102,
+    "id": "POLICIA CIVIL - SWB-006497/05",
+    "number": "SWB-006497/05",
+    "value": 23,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 12552,
+    "id": "POLICIA CIVIL - TAC-343483/00",
+    "number": "TAC-343483/00",
+    "value": 543888,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 12612,
+    "id": "POLICIA CIVIL - INF-003298/00",
+    "number": "INF-003298/00",
+    "value": 6507664,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 12616,
+    "id": "POLICIA CIVIL - INF-003300/00",
+    "number": "INF-003300/00",
+    "value": 2127777,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12640,
+    "id": "POLICIA CIVIL - INF-003343/00",
+    "number": "INF-003343/00",
+    "value": 31270,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Contrato com faturamento superior ao valor contratado"
+  },
+  {
+    "code": 12642,
+    "id": "POLICIA CIVIL - INF-003344/00",
+    "number": "INF-003344/00",
+    "value": 1007190,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12644,
+    "id": "POLICIA CIVIL - INF-003419/00",
+    "number": "INF-003419/00",
+    "value": 4219210,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Contrato com faturamento superior ao valor contratado"
+  },
+  {
+    "code": 12645,
+    "id": "POLICIA CIVIL - INF-003345/00",
+    "number": "INF-003345/00",
+    "value": 49620,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 12646,
+    "id": "POLICIA CIVIL - INF-002878/00",
+    "number": "INF-002878/00",
+    "value": 12000,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12647,
+    "id": "POLICIA CIVIL - INF-003416/00",
+    "number": "INF-003416/00",
+    "value": 3905590,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12943,
+    "id": "POLICIA CIVIL - IND-611870/18",
+    "number": "IND-611870/18",
+    "value": 4063250,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13282,
+    "id": "POLICIA CIVIL - INF-003539/00",
+    "number": "INF-003539/00",
+    "value": 13325000,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 13334,
+    "id": "POLICIA CIVIL - IND-617263/18",
+    "number": "IND-617263/18",
+    "value": 11263223,
+    "status": "Renovar",
+    "somparacaoSaldo": "Contrato com execução esperada",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13448,
+    "id": "POLICIA CIVIL - INF-003302/00",
+    "number": "INF-003302/00",
+    "value": 40562,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato sem saldo",
+    "statusFaturamento": "Contrato com faturamento superior ao valor contratado"
+  },
+  {
+    "code": 13514,
+    "id": "POLICIA CIVIL - INF-003298/01",
+    "number": "INF-003298/01",
+    "value": 6241986,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 13518,
+    "id": "POLICIA CIVIL - INF-003485/00",
+    "number": "INF-003485/00",
+    "value": 112656,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13525,
+    "id": "POLICIA CIVIL - INF-003300/01",
+    "number": "INF-003300/01",
+    "value": 2184937,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 13529,
+    "id": "POLICIA CIVIL - INF-003301/02",
+    "number": "INF-003301/02",
+    "value": 11784,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 7871,
+    "id": "SEPLAG - CCV-000003/12",
+    "number": "CCV-000003/12",
+    "value": 60000000,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 9756,
+    "id": "SEPLAG - CCV-000014/04",
+    "number": "CCV-000014/04",
+    "value": 0,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 9758,
+    "id": "SEPLAG - CCV-000013/14",
+    "number": "CCV-000013/14",
+    "value": 0,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 9823,
+    "id": "SEPLAG - CCV-000015/14",
+    "number": "CCV-000015/14",
+    "value": 0,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 10056,
+    "id": "SEPLAG - CCV-000018/14",
+    "number": "CCV-000018/14",
+    "value": 0,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 11712,
+    "id": "SEPLAG - INF-002805/01",
+    "number": "INF-002805/01",
+    "value": 775218,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 11905,
+    "id": "SEPLAG - INF-003101/00",
+    "number": "INF-003101/00",
+    "value": 689916,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 12142,
+    "id": "SEPLAG - INF-003210/00",
+    "number": "INF-003210/00",
+    "value": 1509504,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Contrato com faturamento superior ao valor contratado"
+  },
+  {
+    "code": 12176,
+    "id": "SEPLAG - CCV-000002/17",
+    "number": "CCV-000002/17",
+    "value": 1447590,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12502,
+    "id": "SEPLAG - INF-002786/03",
+    "number": "INF-002786/03",
+    "value": 28638,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Contrato com faturamento superior ao valor contratado"
+  },
+  {
+    "code": 12518,
+    "id": "SEPLAG - CCV-000003/17",
+    "number": "CCV-000003/17",
+    "value": 500225,
+    "status": "Renovar",
+    "somparacaoSaldo": "Contrato com média de execução acima do previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12589,
+    "id": "SEPLAG - INF-003362/00",
+    "number": "INF-003362/00",
+    "value": 769672,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato com média de execução acima do previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12626,
+    "id": "SEPLAG - TAC-493483/00",
+    "number": "TAC-493483/00",
+    "value": 21766,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 12633,
+    "id": "SEPLAG - INF-002703/02",
+    "number": "INF-002703/02",
+    "value": 530847,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12673,
+    "id": "SEPLAG - INF-003116/01",
+    "number": "INF-003116/01",
+    "value": 46921,
+    "status": "Renovar",
+    "somparacaoSaldo": "Contrato com execução esperada",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12677,
+    "id": "SEPLAG - INF-002766/02",
+    "number": "INF-002766/02",
+    "value": 71829,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12685,
+    "id": "SEPLAG - INF-003086/01",
+    "number": "INF-003086/01",
+    "value": 245412,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 12721,
+    "id": "SEPLAG - INF-003096/01",
+    "number": "INF-003096/01",
+    "value": 781164,
+    "status": "Renovar",
+    "somparacaoSaldo": "Contrato com execução esperada",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12746,
+    "id": "SEPLAG - INF-003117/01",
+    "number": "INF-003117/01",
+    "value": 12666,
+    "status": "Renovar",
+    "somparacaoSaldo": "Contrato com execução esperada",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12782,
+    "id": "SEPLAG - INF-002387/04",
+    "number": "INF-002387/04",
+    "value": 7095,
+    "status": "Renovar",
+    "somparacaoSaldo": "Contrato com execução esperada",
+    "statusFaturamento": "Contrato com faturamento superior ao valor contratado"
+  },
+  {
+    "code": 12806,
+    "id": "SEPLAG - INF-003152/01",
+    "number": "INF-003152/01",
+    "value": 153699,
+    "status": "Renovar",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 12820,
+    "id": "SEPLAG - INF-002551/04",
+    "number": "INF-002551/04",
+    "value": 5901,
+    "status": "Renovar",
+    "somparacaoSaldo": "Contrato com execução esperada",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12826,
+    "id": "SEPLAG - INF-003137/01",
+    "number": "INF-003137/01",
+    "value": 32939,
+    "status": "Renovar",
+    "somparacaoSaldo": "Contrato com execução esperada",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12830,
+    "id": "SEPLAG - INF-002832/03",
+    "number": "INF-002832/03",
+    "value": 4912,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Contrato com faturamento superior ao valor contratado"
+  },
+  {
+    "code": 12852,
+    "id": "SEPLAG - INF-002360/04",
+    "number": "INF-002360/04",
+    "value": 77796,
+    "status": "Renovar",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 12854,
+    "id": "SEPLAG - INF-003166/01",
+    "number": "INF-003166/01",
+    "value": 17385,
+    "status": "Renovar",
+    "somparacaoSaldo": "Contrato com execução esperada",
+    "statusFaturamento": "Contrato com faturamento superior ao valor contratado"
+  },
+  {
+    "code": 12858,
+    "id": "SEPLAG - INF-003502/00",
+    "number": "INF-003502/00",
+    "value": 10202,
+    "status": "Renovar",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12928,
+    "id": "SEPLAG - INF-003554/00",
+    "number": "INF-003554/00",
+    "value": 2580,
+    "status": "Renovar",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12936,
+    "id": "SEPLAG - INF-002948/03",
+    "number": "INF-002948/03",
+    "value": 128212,
+    "status": "Renovar",
+    "somparacaoSaldo": "Contrato com execução esperada",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12964,
+    "id": "SEPLAG - INF-003190/01",
+    "number": "INF-003190/01",
+    "value": 207,
+    "status": "Renovar",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Contrato com faturamento superior ao valor contratado"
+  },
+  {
+    "code": 12985,
+    "id": "SEPLAG - INF-003239/01",
+    "number": "INF-003239/01",
+    "value": 1490188,
+    "status": "Renovar",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 12989,
+    "id": "SEPLAG - INF-003195/01",
+    "number": "INF-003195/01",
+    "value": 8107,
+    "status": "Renovar",
+    "somparacaoSaldo": "Contrato com média de execução acima do previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13038,
+    "id": "SEPLAG - INF-003163/02",
+    "number": "INF-003163/02",
+    "value": 211100,
+    "status": "Renovar",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13071,
+    "id": "SEPLAG - INF-003247/01",
+    "number": "INF-003247/01",
+    "value": 2460,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13100,
+    "id": "SEPLAG - INF-003209/01",
+    "number": "INF-003209/01",
+    "value": 397008,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato com média de execução acima do previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13113,
+    "id": "SEPLAG - INF-003252/01",
+    "number": "INF-003252/01",
+    "value": 6398,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13130,
+    "id": "SEPLAG - INF-003569/00",
+    "number": "INF-003569/00",
+    "value": 475011,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13181,
+    "id": "SEPLAG - CCV-000004/18",
+    "number": "CCV-000004/18",
+    "value": 0,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato sem saldo",
+    "statusFaturamento": "Contrato com faturamento superior ao valor contratado"
+  },
+  {
+    "code": 13189,
+    "id": "SEPLAG - INF-003577/00",
+    "number": "INF-003577/00",
+    "value": 76992,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13200,
+    "id": "SEPLAG - CCV-000029/18",
+    "number": "CCV-000029/18",
+    "value": 0,
+    "status": "Vencido",
+    "somparacaoSaldo": "Contrato Vencido sem saldo",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13204,
+    "id": "SEPLAG - INF-003265/01",
+    "number": "INF-003265/01",
+    "value": 2864,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13206,
+    "id": "SEPLAG - INF-003266/01",
+    "number": "INF-003266/01",
+    "value": 190754,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 13219,
+    "id": "SEPLAG - INF-002642/03",
+    "number": "INF-002642/03",
+    "value": 913367,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13235,
+    "id": "SEPLAG - INF-002442/04",
+    "number": "INF-002442/04",
+    "value": 124200,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato com média de execução acima do previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13237,
+    "id": "SEPLAG - INF-003207/01",
+    "number": "INF-003207/01",
+    "value": 5087,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato com média de execução acima do previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13239,
+    "id": "SEPLAG - INF-003396/01",
+    "number": "INF-003396/01",
+    "value": 341250,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 13343,
+    "id": "SEPLAG - INF-002710/03",
+    "number": "INF-002710/03",
+    "value": 1303800,
+    "status": "Vigente",
+    "somparacaoSaldo": "contrato com média de execução inferior ao previsto em contrato",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 13347,
+    "id": "SEPLAG - INF-002720/03",
+    "number": "INF-002720/03",
+    "value": 15314,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato com média de execução acima do previsto em contrato",
+    "statusFaturamento": "Faturamentos e pagamentos em dia"
+  },
+  {
+    "code": 13419,
+    "id": "SEPLAG - INF-003731/00",
+    "number": "INF-003731/00",
+    "value": 106884,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 13491,
+    "id": "SEPLAG - INF-002703/03",
+    "number": "INF-002703/03",
+    "value": 375210,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 13504,
+    "id": "SEPLAG - INF-002786/04",
+    "number": "INF-002786/04",
+    "value": 30765,
+    "status": "Vigente",
+    "somparacaoSaldo": "Contrato sem saldo",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  },
+  {
+    "code": 13506,
+    "id": "SEPLAG - INF-003122/02",
+    "number": "INF-003122/02",
+    "value": 904652,
+    "status": "Renovar",
+    "somparacaoSaldo": "Contrato com execução esperada",
+    "statusFaturamento": "Contrato com pagamento em aberto"
+  }
+]
