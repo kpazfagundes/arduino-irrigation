@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/irrigation-project/precache-manifest.82ebcba30885dcfe2febbb48eca6526d.js"
+  "/arduino-irrigation/precache-manifest.0f93fd25e006b85e97b6a94ef3e1b23e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/irrigation-project/index.html", {
+workbox.routing.registerNavigationRoute("/arduino-irrigation/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

@@ -1,15 +1,15 @@
 {
-  "main.css": "/irrigation-project/static/css/main.ef12284e.chunk.css",
-  "main.js": "/irrigation-project/static/js/main.ad945f20.chunk.js",
-  "main.js.map": "/irrigation-project/static/js/main.ad945f20.chunk.js.map",
-  "static/css/1.5ce9e3bd.chunk.css": "/irrigation-project/static/css/1.5ce9e3bd.chunk.css",
-  "static/js/1.c34e56f5.chunk.js": "/irrigation-project/static/js/1.c34e56f5.chunk.js",
-  "static/js/1.c34e56f5.chunk.js.map": "/irrigation-project/static/js/1.c34e56f5.chunk.js.map",
-  "runtime~main.js": "/irrigation-project/static/js/runtime~main.1d6386be.js",
-  "runtime~main.js.map": "/irrigation-project/static/js/runtime~main.1d6386be.js.map",
-  "static/css/1.5ce9e3bd.chunk.css.map": "/irrigation-project/static/css/1.5ce9e3bd.chunk.css.map",
-  "static/css/main.ef12284e.chunk.css.map": "/irrigation-project/static/css/main.ef12284e.chunk.css.map",
-  "index.html": "/irrigation-project/index.html",
-  "precache-manifest.82ebcba30885dcfe2febbb48eca6526d.js": "/irrigation-project/precache-manifest.82ebcba30885dcfe2febbb48eca6526d.js",
-  "service-worker.js": "/irrigation-project/service-worker.js"
+  "main.css": "/arduino-irrigation/static/css/main.ef12284e.chunk.css",
+  "main.js": "/arduino-irrigation/static/js/main.b96ca616.chunk.js",
+  "main.js.map": "/arduino-irrigation/static/js/main.b96ca616.chunk.js.map",
+  "static/css/1.5ce9e3bd.chunk.css": "/arduino-irrigation/static/css/1.5ce9e3bd.chunk.css",
+  "static/js/1.c34e56f5.chunk.js": "/arduino-irrigation/static/js/1.c34e56f5.chunk.js",
+  "static/js/1.c34e56f5.chunk.js.map": "/arduino-irrigation/static/js/1.c34e56f5.chunk.js.map",
+  "runtime~main.js": "/arduino-irrigation/static/js/runtime~main.1b4d651c.js",
+  "runtime~main.js.map": "/arduino-irrigation/static/js/runtime~main.1b4d651c.js.map",
+  "static/css/1.5ce9e3bd.chunk.css.map": "/arduino-irrigation/static/css/1.5ce9e3bd.chunk.css.map",
+  "static/css/main.ef12284e.chunk.css.map": "/arduino-irrigation/static/css/main.ef12284e.chunk.css.map",
+  "index.html": "/arduino-irrigation/index.html",
+  "precache-manifest.0f93fd25e006b85e97b6a94ef3e1b23e.js": "/arduino-irrigation/precache-manifest.0f93fd25e006b85e97b6a94ef3e1b23e.js",
+  "service-worker.js": "/arduino-irrigation/service-worker.js"
 }
