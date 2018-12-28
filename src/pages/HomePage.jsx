@@ -12,7 +12,7 @@ export default class HomePage extends Component {
   }
 
   componentDidMount() {
-    fetch(`${url}/10`)
+    fetch(`${url}/12`)
       .then(res => res.json())
       .then(result => {
         const lastMeasurement = result[0].value;
