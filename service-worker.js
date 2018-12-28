@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/arduino-irrigation/precache-manifest.0f93fd25e006b85e97b6a94ef3e1b23e.js"
+  "/irrigation-iot-hk-ui/precache-manifest.5b089b61dae7b10e2872382d11a42450.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/arduino-irrigation/index.html", {
+workbox.routing.registerNavigationRoute("/irrigation-iot-hk-ui/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

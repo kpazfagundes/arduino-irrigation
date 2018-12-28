@@ -1,15 +1,15 @@
 {
-  "main.css": "/arduino-irrigation/static/css/main.ef12284e.chunk.css",
-  "main.js": "/arduino-irrigation/static/js/main.b96ca616.chunk.js",
-  "main.js.map": "/arduino-irrigation/static/js/main.b96ca616.chunk.js.map",
-  "static/css/1.5ce9e3bd.chunk.css": "/arduino-irrigation/static/css/1.5ce9e3bd.chunk.css",
-  "static/js/1.c34e56f5.chunk.js": "/arduino-irrigation/static/js/1.c34e56f5.chunk.js",
-  "static/js/1.c34e56f5.chunk.js.map": "/arduino-irrigation/static/js/1.c34e56f5.chunk.js.map",
-  "runtime~main.js": "/arduino-irrigation/static/js/runtime~main.1b4d651c.js",
-  "runtime~main.js.map": "/arduino-irrigation/static/js/runtime~main.1b4d651c.js.map",
-  "static/css/1.5ce9e3bd.chunk.css.map": "/arduino-irrigation/static/css/1.5ce9e3bd.chunk.css.map",
-  "static/css/main.ef12284e.chunk.css.map": "/arduino-irrigation/static/css/main.ef12284e.chunk.css.map",
-  "index.html": "/arduino-irrigation/index.html",
-  "precache-manifest.0f93fd25e006b85e97b6a94ef3e1b23e.js": "/arduino-irrigation/precache-manifest.0f93fd25e006b85e97b6a94ef3e1b23e.js",
-  "service-worker.js": "/arduino-irrigation/service-worker.js"
+  "main.css": "/irrigation-iot-hk-ui/static/css/main.23bd1acc.chunk.css",
+  "main.js": "/irrigation-iot-hk-ui/static/js/main.0f64c140.chunk.js",
+  "main.js.map": "/irrigation-iot-hk-ui/static/js/main.0f64c140.chunk.js.map",
+  "static/css/1.9215daf3.chunk.css": "/irrigation-iot-hk-ui/static/css/1.9215daf3.chunk.css",
+  "static/js/1.2f7b928a.chunk.js": "/irrigation-iot-hk-ui/static/js/1.2f7b928a.chunk.js",
+  "static/js/1.2f7b928a.chunk.js.map": "/irrigation-iot-hk-ui/static/js/1.2f7b928a.chunk.js.map",
+  "runtime~main.js": "/irrigation-iot-hk-ui/static/js/runtime~main.9a46fb49.js",
+  "runtime~main.js.map": "/irrigation-iot-hk-ui/static/js/runtime~main.9a46fb49.js.map",
+  "static/css/main.23bd1acc.chunk.css.map": "/irrigation-iot-hk-ui/static/css/main.23bd1acc.chunk.css.map",
+  "static/css/1.9215daf3.chunk.css.map": "/irrigation-iot-hk-ui/static/css/1.9215daf3.chunk.css.map",
+  "index.html": "/irrigation-iot-hk-ui/index.html",
+  "precache-manifest.5b089b61dae7b10e2872382d11a42450.js": "/irrigation-iot-hk-ui/precache-manifest.5b089b61dae7b10e2872382d11a42450.js",
+  "service-worker.js": "/irrigation-iot-hk-ui/service-worker.js"
 }
