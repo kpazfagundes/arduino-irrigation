@@ -1,7 +1,7 @@
 {
   "main.css": "/irrigation-iot-hk-ui/static/css/main.23bd1acc.chunk.css",
-  "main.js": "/irrigation-iot-hk-ui/static/js/main.0f64c140.chunk.js",
-  "main.js.map": "/irrigation-iot-hk-ui/static/js/main.0f64c140.chunk.js.map",
+  "main.js": "/irrigation-iot-hk-ui/static/js/main.473b9fe1.chunk.js",
+  "main.js.map": "/irrigation-iot-hk-ui/static/js/main.473b9fe1.chunk.js.map",
   "static/css/1.9215daf3.chunk.css": "/irrigation-iot-hk-ui/static/css/1.9215daf3.chunk.css",
   "static/js/1.2f7b928a.chunk.js": "/irrigation-iot-hk-ui/static/js/1.2f7b928a.chunk.js",
   "static/js/1.2f7b928a.chunk.js.map": "/irrigation-iot-hk-ui/static/js/1.2f7b928a.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.9215daf3.chunk.css.map": "/irrigation-iot-hk-ui/static/css/1.9215daf3.chunk.css.map",
   "static/css/main.23bd1acc.chunk.css.map": "/irrigation-iot-hk-ui/static/css/main.23bd1acc.chunk.css.map",
   "index.html": "/irrigation-iot-hk-ui/index.html",
-  "precache-manifest.5b089b61dae7b10e2872382d11a42450.js": "/irrigation-iot-hk-ui/precache-manifest.5b089b61dae7b10e2872382d11a42450.js",
+  "precache-manifest.d0186a23ad64eda892a6557eb7575405.js": "/irrigation-iot-hk-ui/precache-manifest.d0186a23ad64eda892a6557eb7575405.js",
   "service-worker.js": "/irrigation-iot-hk-ui/service-worker.js"
 }

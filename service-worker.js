@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/irrigation-iot-hk-ui/precache-manifest.5b089b61dae7b10e2872382d11a42450.js"
+  "/irrigation-iot-hk-ui/precache-manifest.d0186a23ad64eda892a6557eb7575405.js"
 );
 
 workbox.clientsClaim();
