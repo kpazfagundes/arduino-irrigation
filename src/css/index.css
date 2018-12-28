@@ -1,24 +1,12 @@
-.border {
-  border: 1px solid black;
-}
-
 .viz {
-  margin-top: 70px;
-  height: 550px;
+  height: 500px;
 }
 
 .page {
-  margin-top: 70px;
-}
-
-.tooltip-table {
+  margin-top: 100px;
   width: 100%;
 }
 
-.tooltip-table .data {
-  text-align: right;
-}
-
-.tooltip-footer {
-  opacity: 0.5;
+#root {
+  width: 96%
 }
